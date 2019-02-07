@@ -12,11 +12,11 @@ body {
 }
 
 html {
-	background-color: #666;
+	background-color: rgb(60, 147, 206);
 }
 
 header {
-	background-color: #FFF0F5;
+	background-color: white;
 	padding: 10px;
 }
 
@@ -27,7 +27,7 @@ section {
 
 section > h2 {
 	font-size: 24px;
-	border-bottom: 2px solid #E6E6FA;
+	border-bottom: 2px solid rgb(247, 233, 40);
 	padding-bottom: 12px;
 }
 
