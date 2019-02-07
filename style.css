@@ -1,0 +1,61 @@
+.container {
+	margin: 0 auto;
+	max-width: 500px;
+}
+
+h1, .tagline {
+	text-align: center;
+}
+
+body {
+	font-family: 'Open Sans', Arial, sans-serif;
+}
+
+html {
+	background-color: #666;
+}
+
+header {
+	background-color: #FFF0F5;
+	padding: 10px;
+}
+
+section {
+	background-color: white;
+	padding: 10px 30px;
+}
+
+section > h2 {
+	font-size: 24px;
+	border-bottom: 2px solid #E6E6FA;
+	padding-bottom: 12px;
+}
+
+header, section {
+	margin: 20px 0;
+}
+
+section img {
+	height: 50px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.tagline {
+	font-size: 15px;
+	font-weight: 600;
+	margin-top: -5px;
+}
+
+.city-description {
+	font-size: 15px;
+	margin-left: 25px;
+}
+
+.colorful-link {
+	color: purple;
+}
+
+.colorful-link:hover {
+	color: orange;
+}
