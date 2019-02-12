@@ -12,17 +12,17 @@ body {
 }
 
 html {
-	background-color: #F9F7F5;
+	background-color: #5fcef0
 }
 
 header {
-	background-color: white;
+	background-color: #ffffff;
 	padding: 10px;
 }
 
 section {
-	background-color: white;
-	padding: 10px 30px;
+	background-color: #ffffff;	
+	padding:  10px 30px;
 }
 
 section > h2 {
